@@ -1,0 +1,16 @@
+C:\Users\micha\source\repos\DesignPatterns\Mediator with MediatR\bin\Debug\netcoreapp3.1\Mediator with MediatR.exe
+C:\Users\micha\source\repos\DesignPatterns\Mediator with MediatR\obj\Debug\netcoreapp3.1\Mediator with MediatR.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\DesignPatterns\Mediator with MediatR\obj\Debug\netcoreapp3.1\Mediator with MediatR.AssemblyInfo.cs
+C:\Users\micha\source\repos\DesignPatterns\Mediator with MediatR\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\micha\source\repos\DesignPatterns\Mediator with MediatR\obj\Debug\netcoreapp3.1\Mediator with MediatR.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\DesignPatterns\Mediator with MediatR\obj\Debug\netcoreapp3.1\Mediator with MediatR.csproj.CopyComplete
+C:\Users\micha\source\repos\DesignPatterns\Mediator with MediatR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\micha\source\repos\DesignPatterns\Mediator with MediatR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\micha\source\repos\DesignPatterns\Mediator with MediatR\bin\Debug\netcoreapp3.1\Mediator with MediatR.deps.json
+C:\Users\micha\source\repos\DesignPatterns\Mediator with MediatR\bin\Debug\netcoreapp3.1\Mediator with MediatR.runtimeconfig.json
+C:\Users\micha\source\repos\DesignPatterns\Mediator with MediatR\bin\Debug\netcoreapp3.1\Mediator with MediatR.runtimeconfig.dev.json
+C:\Users\micha\source\repos\DesignPatterns\Mediator with MediatR\bin\Debug\netcoreapp3.1\Mediator with MediatR.dll
+C:\Users\micha\source\repos\DesignPatterns\Mediator with MediatR\bin\Debug\netcoreapp3.1\Mediator with MediatR.pdb
+C:\Users\micha\source\repos\DesignPatterns\Mediator with MediatR\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\micha\source\repos\DesignPatterns\Mediator with MediatR\obj\Debug\netcoreapp3.1\Mediator with MediatR.dll
+C:\Users\micha\source\repos\DesignPatterns\Mediator with MediatR\obj\Debug\netcoreapp3.1\Mediator with MediatR.pdb

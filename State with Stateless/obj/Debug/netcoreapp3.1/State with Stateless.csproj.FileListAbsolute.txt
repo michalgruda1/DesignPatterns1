@@ -1,0 +1,13 @@
+C:\Users\micha\source\repos\DesignPatterns\State with Stateless\bin\Debug\netcoreapp3.1\State with Stateless.exe
+C:\Users\micha\source\repos\DesignPatterns\State with Stateless\obj\Debug\netcoreapp3.1\State with Stateless.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\DesignPatterns\State with Stateless\obj\Debug\netcoreapp3.1\State with Stateless.AssemblyInfo.cs
+C:\Users\micha\source\repos\DesignPatterns\State with Stateless\bin\Debug\netcoreapp3.1\State with Stateless.deps.json
+C:\Users\micha\source\repos\DesignPatterns\State with Stateless\bin\Debug\netcoreapp3.1\State with Stateless.runtimeconfig.json
+C:\Users\micha\source\repos\DesignPatterns\State with Stateless\bin\Debug\netcoreapp3.1\State with Stateless.runtimeconfig.dev.json
+C:\Users\micha\source\repos\DesignPatterns\State with Stateless\bin\Debug\netcoreapp3.1\State with Stateless.dll
+C:\Users\micha\source\repos\DesignPatterns\State with Stateless\bin\Debug\netcoreapp3.1\State with Stateless.pdb
+C:\Users\micha\source\repos\DesignPatterns\State with Stateless\bin\Debug\netcoreapp3.1\Stateless.dll
+C:\Users\micha\source\repos\DesignPatterns\State with Stateless\obj\Debug\netcoreapp3.1\State with Stateless.csproj.CopyComplete
+C:\Users\micha\source\repos\DesignPatterns\State with Stateless\obj\Debug\netcoreapp3.1\State with Stateless.dll
+C:\Users\micha\source\repos\DesignPatterns\State with Stateless\obj\Debug\netcoreapp3.1\State with Stateless.pdb
+C:\Users\micha\source\repos\DesignPatterns\State with Stateless\obj\Debug\netcoreapp3.1\State with Stateless.csprojAssemblyReference.cache

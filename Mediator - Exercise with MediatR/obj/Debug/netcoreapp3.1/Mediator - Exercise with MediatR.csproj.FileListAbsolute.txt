@@ -1,0 +1,14 @@
+C:\Users\micha\source\repos\DesignPatterns\Mediator - Exercise with MediatR\bin\Debug\netcoreapp3.1\Mediator - Exercise with MediatR.exe
+C:\Users\micha\source\repos\DesignPatterns\Mediator - Exercise with MediatR\obj\Debug\netcoreapp3.1\Mediator - Exercise with MediatR.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\DesignPatterns\Mediator - Exercise with MediatR\obj\Debug\netcoreapp3.1\Mediator - Exercise with MediatR.AssemblyInfo.cs
+C:\Users\micha\source\repos\DesignPatterns\Mediator - Exercise with MediatR\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\micha\source\repos\DesignPatterns\Mediator - Exercise with MediatR\obj\Debug\netcoreapp3.1\Mediator - Exercise with MediatR.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\DesignPatterns\Mediator - Exercise with MediatR\obj\Debug\netcoreapp3.1\Mediator - Exercise with MediatR.csproj.CopyComplete
+C:\Users\micha\source\repos\DesignPatterns\Mediator - Exercise with MediatR\bin\Debug\netcoreapp3.1\Mediator - Exercise with MediatR.deps.json
+C:\Users\micha\source\repos\DesignPatterns\Mediator - Exercise with MediatR\bin\Debug\netcoreapp3.1\Mediator - Exercise with MediatR.runtimeconfig.json
+C:\Users\micha\source\repos\DesignPatterns\Mediator - Exercise with MediatR\bin\Debug\netcoreapp3.1\Mediator - Exercise with MediatR.runtimeconfig.dev.json
+C:\Users\micha\source\repos\DesignPatterns\Mediator - Exercise with MediatR\bin\Debug\netcoreapp3.1\Mediator - Exercise with MediatR.dll
+C:\Users\micha\source\repos\DesignPatterns\Mediator - Exercise with MediatR\bin\Debug\netcoreapp3.1\Mediator - Exercise with MediatR.pdb
+C:\Users\micha\source\repos\DesignPatterns\Mediator - Exercise with MediatR\bin\Debug\netcoreapp3.1\xunit.assert.dll
+C:\Users\micha\source\repos\DesignPatterns\Mediator - Exercise with MediatR\obj\Debug\netcoreapp3.1\Mediator - Exercise with MediatR.dll
+C:\Users\micha\source\repos\DesignPatterns\Mediator - Exercise with MediatR\obj\Debug\netcoreapp3.1\Mediator - Exercise with MediatR.pdb

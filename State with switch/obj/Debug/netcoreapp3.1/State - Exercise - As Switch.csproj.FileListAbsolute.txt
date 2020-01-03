@@ -1,0 +1,11 @@
+C:\Users\micha\source\repos\DesignPatterns\ConsoleApp1\bin\Debug\netcoreapp3.1\State - Exercise - As Switch.exe
+C:\Users\micha\source\repos\DesignPatterns\ConsoleApp1\bin\Debug\netcoreapp3.1\State - Exercise - As Switch.deps.json
+C:\Users\micha\source\repos\DesignPatterns\ConsoleApp1\bin\Debug\netcoreapp3.1\State - Exercise - As Switch.runtimeconfig.json
+C:\Users\micha\source\repos\DesignPatterns\ConsoleApp1\bin\Debug\netcoreapp3.1\State - Exercise - As Switch.runtimeconfig.dev.json
+C:\Users\micha\source\repos\DesignPatterns\ConsoleApp1\bin\Debug\netcoreapp3.1\State - Exercise - As Switch.dll
+C:\Users\micha\source\repos\DesignPatterns\ConsoleApp1\bin\Debug\netcoreapp3.1\State - Exercise - As Switch.pdb
+C:\Users\micha\source\repos\DesignPatterns\ConsoleApp1\obj\Debug\netcoreapp3.1\State - Exercise - As Switch.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\DesignPatterns\ConsoleApp1\obj\Debug\netcoreapp3.1\State - Exercise - As Switch.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\DesignPatterns\ConsoleApp1\obj\Debug\netcoreapp3.1\State - Exercise - As Switch.AssemblyInfo.cs
+C:\Users\micha\source\repos\DesignPatterns\ConsoleApp1\obj\Debug\netcoreapp3.1\State - Exercise - As Switch.dll
+C:\Users\micha\source\repos\DesignPatterns\ConsoleApp1\obj\Debug\netcoreapp3.1\State - Exercise - As Switch.pdb

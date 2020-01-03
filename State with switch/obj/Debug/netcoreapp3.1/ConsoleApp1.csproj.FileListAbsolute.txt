@@ -1,0 +1,11 @@
+C:\Users\micha\source\repos\DesignPatterns\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\micha\source\repos\DesignPatterns\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\micha\source\repos\DesignPatterns\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\micha\source\repos\DesignPatterns\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\micha\source\repos\DesignPatterns\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\micha\source\repos\DesignPatterns\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\micha\source\repos\DesignPatterns\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\DesignPatterns\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\DesignPatterns\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\micha\source\repos\DesignPatterns\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\micha\source\repos\DesignPatterns\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
